@@ -19,7 +19,7 @@ This project uses lot of stuff as:
 Create a new project using this boilerplate as an example:
 
 ```bash
-yarn create next-app -e https://github.com/alangabrielbs/boilerplate-next
+yarn create next-app -e https://github.com/YuriRdg/next-boilerplate
 ```
 
 First, run the development server:
