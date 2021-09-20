@@ -8,23 +8,18 @@ export default {
     normal: 400,
     bold: 700,
     sizes: {
-      xxsmall: "1rem",
+      xxsmall: "1.2rem",
       xsmall: "1.4rem",
       small: "1.6rem",
       medium: "1.8rem",
-      large: "2.1rem",
-      xlarge: "2.8rem",
-      xxlarge: "4.8rem"
+      large: "2rem",
+      xlarge: "2.4rem",
+      xxlarge: "2.8rem"
     }
   },
   colors: {
-    primary: "#FFD74F",
-    "purple-100": "#A68EEF",
-    "purple-200": "#7955E8",
-    "purple-300": "#744FF4",
-    "purple-400": "#6F48EC",
-    "purple-500": "#200E64",
-    white: "#fff"
+    primary: "#FFF",
+    secondary: "#000"
   },
   spacings: {
     xxsmall: "0.8rem",

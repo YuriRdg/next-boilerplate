@@ -36,7 +36,6 @@ ${({ theme }) => css`
   }
 `}
 
-  
 `
 
 export default GlobalStyles
