@@ -4539,7 +4539,7 @@ camelize@^1.0.0:
   resolved "https://registry.yarnpkg.com/camelize/-/camelize-1.0.0.tgz#164a5483e630fa4321e5af07020e531831b2609b"
   integrity sha1-FkpUg+Yw+kMh5a8HAg5TGDGyYJs=
 
-caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001202, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001228, caniuse-lite@^1.0.30001286:
+caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001202, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001228, caniuse-lite@^1.0.30001286:
   version "1.0.30001296"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001296.tgz#d99f0f3bee66544800b93d261c4be55a35f1cec8"
   integrity sha512-WfrtPEoNSoeATDlf4y3QvkwiELl9GyPLISV5GejTbbQRtQx4LhsXmc9IQ6XCL2d7UxCyEzToEZNMeqR79OUw8Q==
@@ -9076,10 +9076,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@^12.2.1:
-  version "12.2.1"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-12.2.1.tgz#e37b5a81deaabf5823f43b3aa903a70c15c9d0b3"
-  integrity sha512-VCVcA9C2Vt5HHxSR4EZVZFJcQRJH984CGBeY+cJ/xed4mBd+JidbM/xbKcCq5ASaygAV0iITtdsCTnID7h/1OQ==
+lint-staged@^12.2.2:
+  version "12.2.2"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-12.2.2.tgz#e03d93b41092316e0f38b37c9630da807aae3cca"
+  integrity sha512-bcHEoM1M/f+K1BYdHcEuIn8K+zMOSJR3mkny6PAuQiTgcSUcRbUWaUD6porAYypxF4k1vYZZ2HutZt1p94Z1jQ==
   dependencies:
     cli-truncate "^3.1.0"
     colorette "^2.0.16"
@@ -9884,7 +9884,7 @@ node-plop@^0.30.0:
     title-case "^3.0.3"
     upper-case "^2.0.2"
 
-node-releases@^1.1.61, node-releases@^1.1.71:
+node-releases@^1.1.71:
   version "1.1.75"
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.75.tgz#6dd8c876b9897a1b8e5a02de26afa79bb54ebbfe"
   integrity sha512-Qe5OUajvqrqDSy6wrWFmMwfJ0jVgwiw4T3KqmbTcZ62qW0gQkheXYhcFM1+lOVcGUoRxcEcfyvFMAnDgaF1VWw==
